@@ -1,5 +1,7 @@
 Arcade Shooter
 
+Video: https://www.youtube.com/watch?v=jnfMpcFrHpQ
+
 Controls
 A / D or Arrow Keys: move
 Space: shoot
